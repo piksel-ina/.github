@@ -1,4 +1,4 @@
-# Piksel Indonesia
+# Piksel Indonesia - Digital Earth Indonesia
 
 **Indonesia's Digital Earth Platform**
 
