@@ -20,18 +20,18 @@ Empowering Indonesia with accessible, scalable, and intelligent earth observatio
 
 ### Documentation & Web
 
-- **[piksel-documentation](https://github.com/piksel-indonesia/piksel-documentation)** - Centralized documentation and homepage website hosted on GitHub
+- **[piksel-documentation](https://github.com/piksel-ina/piksel-documentation)** - Centralized documentation and homepage website hosted on GitHub
 
 ### Infrastructure
 
-- **[piksel-infra](https://github.com/piksel-indonesia/piksel-infra)** - Main infrastructure as code repository
-- **[piksel-hub](https://github.com/piksel-indonesia/piksel-hub)** - Shared account infrastructure (ECR, Route53, OAuth with Cognito)
-- **[piksel-gitops](https://github.com/piksel-indonesia/piksel-gitops)** - Flux CD repository for Kubernetes deployment
+- **[piksel-infra](https://github.com/piksel-ina/piksel-infra)** - Main infrastructure as code repository
+- **[piksel-hub](https://github.com/piksel-ina/piksel-hub)** - Shared account infrastructure (ECR, Route53, OAuth with Cognito)
+- **[piksel-gitops](https://github.com/piksel-ina/piksel-gitops)** - Flux CD repository for Kubernetes deployment
 
 ### Core Applications
 
-- **[piksel-core](https://github.com/piksel-indonesia/piksel-core)** - Dockerized ODC, Jupyter, and customized applications with ODC product definitions for local development
-- **[piksel-notebook](https://github.com/piksel-indonesia/piksel-notebook)** - Jupyter Notebooks for the Piksel sandbox environment
+- **[piksel-core](https://github.com/piksel-ina/piksel-core)** - Dockerized ODC, Jupyter, and customized applications with ODC product definitions for local development
+- **[piksel-notebook](https://github.com/piksel-ina/piksel-notebooks)** - Jupyter Notebooks for the Piksel sandbox environment
 
 ## Features
 
